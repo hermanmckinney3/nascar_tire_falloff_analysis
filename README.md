@@ -37,7 +37,7 @@ from pynascar.driver import DriversData
 import matplotlib.pyplot as plt
 
 # CSV Import
-track_lookup = pd.read_csv('cup_tracks.csv')
+track_lookup = pd.read_csv('cup_tracks.csv') # provided in the repository files
 ```
 
 ## Running the Analysis
