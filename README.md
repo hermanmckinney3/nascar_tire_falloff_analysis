@@ -49,10 +49,7 @@ The function searches for available NASCAR Cup Series races at the selected trac
 Example:
 
 ```python
-driver_data = analyze_track(
-    'New Hampshire Motor Speedway',
-    'Chase Briscoe')
-
+driver_data = analyze_track('New Hampshire Motor Speedway', 'Chase Briscoe')
 driver_data
 ```
 
